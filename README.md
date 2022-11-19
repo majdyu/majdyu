@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majd Oueslati</h1>
-<h3 align="center">I am a JAVA full stack Engineer 🚀 from Tunisia ,I am interested in applications development especially with Java Language <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> and Spring Boot <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> for the backend and Angular <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> for the frontend. 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">I am a JAVA full stack Engineer 🚀 from Tunisia ,I am interested in applications development especially with Java Language <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> and Spring Boot <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> for the backend and Angular <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> for the frontend.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
