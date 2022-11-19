@@ -1,5 +1,5 @@
-<h1 align="center">Hello ,My name is Majd Oueslati</h1>
-<h3 align="center">I am a ...
+<h1 align="center">Hello 👋,My name is Majd Oueslati</h1>
+<h3 align="center">I am a JAVA full stack Engineer 🚀. I am interested in applications development especially with Java Language java and Spring spring for the backend and Angular angular for the frontend. Personnally There is more to engineering than just technical know-how, so simply having a higher IQ is not going to cut it. Qualities of an engineer will include commendable technical knowledge but also social and emotional intelligence. What makes a good engineer is a candidate’s ability to grasp what is going on around them.
 <br><br>
 <p align="center"><img  src="https://imgs.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif" alt="HappyCoder" /></p>
 
